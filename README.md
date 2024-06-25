@@ -2,7 +2,7 @@
 ## Project overview
 In this project,I analysed cutomers reviews of british airlines performance  across various metrics  such as entertainment, customer ratings,Food,seat comfort and etc.Analysis from this data show how each airline company is performing and identifies areas that need improvement.
 ## Data Sources
-The primary dataset used for this project are in csv format. 
+ Primary datasets used for this project are the BA Reviews and Countries in csv format. Download Copy in files
 
 
 
